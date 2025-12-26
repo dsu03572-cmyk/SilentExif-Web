@@ -253,7 +253,7 @@ export default function Home() {
                                             className="w-10 h-10 rounded-full bg-blue-100 dark:bg-blue-900/30 flex items-center justify-center mr-4">
                                             <i className="fa-solid fa-envelope text-blue-500"></i>
                                         </div>
-                                        <span>support@silentexif.com</span>
+                                        <span>dsu03572@gmail.com</span>
                                     </div>
                                     <div className="flex items-center">
                                         <div
@@ -346,7 +346,7 @@ export default function Home() {
                             <ul className="space-y-3">
                                 <li className="flex items-start">
                                     <i className="fa-solid fa-envelope text-blue-500 mt-1 mr-3"></i>
-                                    <span className="text-gray-600 dark:text-gray-300">support@silentexif.com</span>
+                                    <span className="text-gray-600 dark:text-gray-300">dsu03572@gmail.com</span>
                                 </li>
                                 <li className="flex items-start">
                                     <i className="fa-brands fa-twitter text-blue-500 mt-1 mr-3"></i>
